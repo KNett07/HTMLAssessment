@@ -5,18 +5,20 @@ h2, h3, h4, h5{
   color: blue;
   font: sans-serif;
 }
-
-table{
-  color: bold darkblue;
+#scoreBoard {
+  font-style: bold;
+  border: solid black;
+  align-content: center;
+}
+table {
+  color: bold dodgerblue;
   border-style: groove;
   border-color: gray;
   position: center;
 
 }
-
 li{
   list-style-type: square;
-
 }
 
 .hyperLink {
@@ -32,6 +34,10 @@ blockquote {
     color: orange;
 }
 
-image{
+[alt]{
+visibility: hidden;
+}
 
+#checkbox-grid {
+  list-style-type: none;
 }
