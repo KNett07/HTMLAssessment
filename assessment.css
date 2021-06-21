@@ -1,0 +1,37 @@
+
+
+
+h2, h3, h4, h5{
+  color: blue;
+  font: sans-serif;
+}
+
+table{
+  color: bold darkblue;
+  border-style: groove;
+  border-color: gray;
+  position: center;
+
+}
+
+li{
+  list-style-type: square;
+
+}
+
+.hyperLink {
+  text-decoration: none;
+}
+.hyperLink:hover {
+  background-color: dodgerblue;
+  text-decoration: none;
+}
+
+blockquote {
+    background-color: blue;
+    color: orange;
+}
+
+image{
+
+}
